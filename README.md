@@ -22,7 +22,7 @@ Chris is an educational technologist with a background in philosophy. Over the l
 
 - Creating applications
 
-*Developing and publishing*
+- Developing and publishing
 
 Computational thinking: 
 
