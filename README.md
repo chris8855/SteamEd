@@ -44,9 +44,9 @@ Once the project is finished, we will look at ways to deploy and share our work.
 **Course Length: Five Hours (11+) **
 
 
-####Code examples 
+#### Code examples 
 
-Indented 4 spaces, like `<pre>` (Preformatted Text).
+What would you like to create?
 
     <?php
         echo "Hello world!";
