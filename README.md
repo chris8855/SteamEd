@@ -10,7 +10,7 @@ Here you will find content created by our teachers, each course is run over a sp
 
 Chris is an educational technologist with a background in philosophy. Over the last seven years in edtech he has given tutorials and designed courses that empower young learners to create with code. He has run sessions in some of the top prep schools in London, and is passionate about sharing his love for technology.
 
-*Course Outline *
+*Course Outline*
 
 - Introduction to coding
 
