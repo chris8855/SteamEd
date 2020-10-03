@@ -1,10 +1,10 @@
 # SteamEd
 
-Steam Ed is a collecting of course content, code examples and tutorials created by our members. Please email (this inbox) to find out more information.
+Steam Ed is a collection of course content, code examples and tutorials created by our members. Please email (this inbox) to find out more information.
 
 **Courses by teachers**
 
-Here you will find content created by our teachers, each course is run over a spefic during and is made bespoke by the teacher who desienged it. All of our teachers have a passion for technonlogy and are highly qualified in their respective fields.
+Here you will find content created by our teachers, each course is run over a spefic during and is made bespoke by tour teachers. They all have a passion for technonlogy and are highly qualified in their respective fields.
 
 ***Christopher Moss*** 
 
