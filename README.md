@@ -43,7 +43,7 @@ How are applications made? After the student chooses a mini project or problem t
 Sharing and development:
 Once the project is finished, we will look at ways to deploy and share our work. 
 
-**Course Length: Five Hours (11+) **
+**Course Length: Five Hours (11+)**
 
 
 #### Code examples 
