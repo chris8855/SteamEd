@@ -1,6 +1,18 @@
-# SteamEd
+# About SteamEd
 
-Steam Ed is a collection of course content, code examples and tutorials created by our members. Please email (this inbox) to find out more information.
+Steam Ed is an online community of teachers and markers, focused on creating open source code, lesson plans and other resources designed for all learners.
+We use sandbox IDLEs (integrated developmental learning environments) such as:
+
+-  p5.js  https://p5js.org/
+-  Mu editor https://codewith.mu/
+-  Scratch https://scratch.mit.edu/
+
+To inspire future developers young and old to become creative technologists. 
+
+
+# What is this repo?
+
+A collection of course content, code examples and tutorials created by our members. Please email (this inbox) to find out more information.
 
 **Courses by teachers**
 
